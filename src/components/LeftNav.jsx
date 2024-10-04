@@ -54,7 +54,7 @@ const LeftNav = () => {
                     );
                 })}
                 <div className="text-white/[0.5] text-[12px] mt-20">
-                    Made with ❤️
+                    .
                 </div>
             </div>
         </div>
